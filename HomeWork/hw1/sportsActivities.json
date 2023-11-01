@@ -1,0 +1,30 @@
+[
+    {
+        "nameEng": "Tennis",
+        "nameRus": "Теннис",
+        "time": "10:00",
+        "maxParticipants": 20,
+        "currentParticipants": 10
+    },
+    {
+        "nameEng": "Yoga",
+        "nameRus": "Йога",
+        "time": "14:00",
+        "maxParticipants": 15,
+        "currentParticipants": 8
+    },
+    {
+        "nameEng": "Fitness",
+        "nameRus": "Фитнес",
+        "time": "16:30",
+        "maxParticipants": 25,
+        "currentParticipants": 22
+    },
+    {
+        "nameEng": "Karate",
+        "nameRus": "Каратэ",
+        "time": "18:40",
+        "maxParticipants": 16,
+        "currentParticipants": 16
+    }
+]
