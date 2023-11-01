@@ -1,4 +1,4 @@
-const ACCESS_KEY = "wrgHFlUcqf0fvl0BvjvT-fuwqybml7CvEzycaZhDCB4";
+const ACCESS_KEY = "olDO39xeR0N22KYIHnOsD-LjEBLCIEUWgVONgqsbulQ";
 
 async function getRandomImage() {
   try {
@@ -29,3 +29,5 @@ window.onload = function () {
 };
 
 document.getElementById("likeButton").addEventListener("click", likeImage);
+
+

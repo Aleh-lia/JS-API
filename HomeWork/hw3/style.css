@@ -12,6 +12,7 @@
 .container {
     padding-left: calc(50% - 400px);
     padding-right: calc(50% - 400px);
+    margin-bottom: 30px;
 }
 
 .info {
